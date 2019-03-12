@@ -12,6 +12,6 @@ In this app contains 4 page.
 - Game Screen
 ![Game Page](https://github.com/alparlanylmaz/jumper/blob/master/Screenshot_20190313-015912_Deneme.jpg)
 
-#License
+# License
 
 Feel free to use it.
